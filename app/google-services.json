@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "740049904571",
+    "project_id": "loginfb-69b18",
+    "storage_bucket": "loginfb-69b18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740049904571:android:c5bd8eea5a5fc4bc03da9e",
+        "android_client_info": {
+          "package_name": "edu.cs.birzeit.loginfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740049904571-vo9uiatc6rtjtecii6lqvnvpco54679m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoj2IQMrpTx0I22NtOBJ5ktySd_bpqTIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740049904571-vo9uiatc6rtjtecii6lqvnvpco54679m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
